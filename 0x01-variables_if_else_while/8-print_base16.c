@@ -13,6 +13,10 @@ for (b16 = 48; b16 <= 57; b16++)
 {
 putchar(b16);
 }
+for (b16 = 97; bs16 <= 102; b16++)
+{
+putchar(b16);
+}
 putchar('\n');
 return (0);
 }
