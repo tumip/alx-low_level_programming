@@ -14,7 +14,7 @@ for (ch = 'a'; ch <= 'z'; ch++)
 if (ch == 'e')
 continue;
 else if (ch == 'q')
-continue
+continue;
 putchar(ch);
 }
 putchar('\n');
