@@ -11,7 +11,7 @@ char b16;
 
 for (b16 = 48; b16 <= 57; b16++)
 {
-putcahr(b16);
+putchar(b16);
 }
 putchar('\n');
 return (0);
