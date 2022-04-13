@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * main - check your code
- * 
+ * print_sign - function for printing sign of value
+ *
+ *@n: value to be printed
+ *
  * Return: Always 0.
  */
 
