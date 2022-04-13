@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * _islower - also found in standard libabry
+ * @c: contains value to be compared
  *
  * Return: Always 0.
  */
