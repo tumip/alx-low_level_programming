@@ -21,5 +21,5 @@ _putchar(a);
 redo++;
 _putchar('\n');
 }
-return (0);
+
 }
