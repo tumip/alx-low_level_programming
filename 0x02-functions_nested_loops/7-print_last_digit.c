@@ -10,13 +10,9 @@
 
 int print_last_digit(int n)
 {
-for (n)
 {
 return (n % 10);
 }
-
-
-
 
 
 }
