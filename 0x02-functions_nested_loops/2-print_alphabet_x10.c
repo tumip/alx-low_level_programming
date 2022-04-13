@@ -7,8 +7,8 @@
  */
 void print_alphabet_x10(void)
 {
-int alphabet;
-int count;
+int a;
+int redo;
 
 
 redo = 0;
