@@ -11,7 +11,7 @@ long long int n, i, p_f;
 p_f = -1;
 n = 612852475143;
 
-while (x % 2 == 0)
+while (n % 2 == 0)
 {
 p_f = 2;
 n = n / 2;
