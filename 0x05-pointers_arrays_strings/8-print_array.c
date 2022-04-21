@@ -12,7 +12,7 @@
 
 void print_array(int *a, int n)
 {
-int ;
+int i;
 
 i = 0;
 
