@@ -16,7 +16,7 @@ for (len = 0; s[len] != '\0'; len++)
 }
 
 j = len - 1;
-i = o;
+i = 0;
 
 while (j > i)
 {
