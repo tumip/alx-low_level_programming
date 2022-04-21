@@ -3,7 +3,7 @@
  * print_rev - prints str
  *@s: int pointer
  *
- *Return: void 
+ *Return: void
  */
 
 void print_rev(char *s)
