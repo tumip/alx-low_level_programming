@@ -3,29 +3,24 @@
 /**
  * rev_string - reverse the str
  *
- * @s: str to be reversed
+ * @s: pointer str
+ *
+ * Return: void
  */
 
 void rev_string(char *s)
 {
-int len, j, i;
-char a, b;
+char buff[500];
+int i = 0, j, pos = 0;
 
-for (len = 0; s[len] != '\0'; len++)
+while (*(s + i) != '\0')
 {
+	buff[i] = *(s + i);
+	i++;
 }
-
-j = len - 1;
-i = 0;
-
-while (j > i)
+for (j = (i - 1); j >= 0; j--)
 {
-a = s[i];
-b = s[j];
-s[i] = b;
-s[i] = a;
-j--;
-i--;
+	*(s + pos) = buff[j];
+	pos++;
 }
 }
-
