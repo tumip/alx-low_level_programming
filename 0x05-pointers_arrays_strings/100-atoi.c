@@ -35,9 +35,9 @@ len = j - i;
 l = i;
 while (len >= 1)
 {
-num = num * 10 + (*(s + l) - '0');
+num = num * 10 + (*(s + l) -'0');
 l++;
 len--;
 }
-return (num * aux);
+return (num *aux);
 }
