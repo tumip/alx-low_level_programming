@@ -2,13 +2,13 @@
 
 /**
  * _strcmp - compares two strings
- 
+ *
  * @s1: str 1
  *
  * @s2: str 2
  *
  * Return: 0 if s1 and s2 are equals
- * another number if not.
+ * another number if not
  */
 
 int _strcmp(char *s1, char *s2)
