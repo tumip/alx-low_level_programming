@@ -4,8 +4,8 @@
  * main - Entry point
  *
  * puts- A program that uses put to print
- * 
- * Return 0: Success
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
