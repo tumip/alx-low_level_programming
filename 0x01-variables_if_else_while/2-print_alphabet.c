@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+/**
+ *main -Entry point
+ *
+ *program to print alphabet using putchar
+ *
+ *Return: Always 0 (Success)
+ */
+
+int main()
+{
+	char i;
+  
+	for(i='a'; i<='z'; i++)
+	{
+		putchar(i); 
+	}
+	putchar('\n');
+	return 0;
+}
