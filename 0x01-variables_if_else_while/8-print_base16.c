@@ -1,12 +1,12 @@
- #include <stdio.h>
+#include <stdio.h>
 
- /**
- *main - Entry point
- *
- *program to print base16 single digits
- *
- *Return: Always 0 (Success)
- */
+/**
+*main - Entry point
+*
+*program to print base16 single digits
+*
+*Return: Always 0 (Success)
+*/
 
 int main(void)
 {
