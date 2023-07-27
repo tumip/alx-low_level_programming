@@ -1,11 +1,11 @@
- #include <stdio.h>
+#include <stdio.h>
 
- /**
- * main - Entry point
+/**
+ *main - Entry point
  *
- * program to print base10 single digits
+ *program to print base10 single digits
  *
- * Return: Always 0 (Success)
+ *Return: Always 0 (Success)
  */
 
 int main(void)
